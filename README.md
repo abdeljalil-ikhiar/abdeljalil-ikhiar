@@ -72,13 +72,14 @@ Système de gestion des employés et des congés avec interface intuitive.
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdeljalil-ikhiar&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdeljalil-ikhiar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdeljalil-ikhiar&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalil-ikhiar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdeljalil-ikhiar&theme=radical&row=1&column=6" />
+</p>
 
 ---
 
