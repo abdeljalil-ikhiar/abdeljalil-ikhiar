@@ -74,7 +74,7 @@ Système de gestion des employés et des congés avec interface intuitive.
 
 <div align="center">
 
-**🔹 8 Repositories publics | 🔹 Java, JavaScript, Spring Boot | 🔹 Basé à Casablanca**
+**🔹 8 Repositories publics | 🔹 React • Spring Boot • Spring Security • Spring Data JPA • Laravel • ASP.NET | 🔹 Basé à Casablanca**
 
 [![Voir mes projets](https://img.shields.io/badge/Voir_mes_projets-GitHub-black?style=for-the-badge&logo=github)](https://github.com/abdeljalil-ikhiar?tab=repositories)
 
