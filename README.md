@@ -70,16 +70,15 @@ Système de gestion des employés et des congés avec interface intuitive.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdeljalil-ikhiar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdeljalil-ikhiar&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdeljalil-ikhiar&theme=radical&row=1&column=6" />
-</p>
+**🔹 8 Repositories publics | 🔹 Java, JavaScript, Spring Boot | 🔹 Basé à Casablanca**
+
+[![Voir mes projets](https://img.shields.io/badge/Voir_mes_projets-GitHub-black?style=for-the-badge&logo=github)](https://github.com/abdeljalil-ikhiar?tab=repositories)
+
+</div>
 
 ---
 
