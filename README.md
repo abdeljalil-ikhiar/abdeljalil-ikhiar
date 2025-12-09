@@ -7,7 +7,7 @@
 *Passionné par la création de solutions web innovantes et l'analyse de données*
 
 [![GitHub followers](https://img.shields.io/github/followers/abdeljalil-ikhiar?style=social)](https://github.com/abdeljalil-ikhiar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdeljalil-ikhiar-b63979213/)
 
 </div>
 
